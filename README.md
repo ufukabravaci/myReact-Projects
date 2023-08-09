@@ -1,2 +1,2 @@
 # myReact-Projects
- My React Projects while learning React will be pushed to this repo.
+ My React Projects will be pushed to this repo.
