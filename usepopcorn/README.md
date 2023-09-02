@@ -1,3 +1,7 @@
+This project belongs to Jonas Schmedtmann's The Ultimate React Course 2023: React, Redux & More Course. I followed him all the way along.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
